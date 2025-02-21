@@ -7,3 +7,5 @@ Push & Pass is an Arduino-powered traffic light system integrating a pedestrian 
 * The button press is handled as an interrupt, meaning an immediate response without disrupting the system’s timing.
 
 This project is a fun way to introduce students to microcontrollers, embedded systems, and real-world traffic logic while making pedestrian crossings more interactive.  
+
+![IMG_1642](https://github.com/user-attachments/assets/dbb8cc1d-176f-416d-af86-efa24c25f33c)
