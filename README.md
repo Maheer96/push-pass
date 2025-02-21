@@ -1,2 +1,3 @@
-# push-pass
-a project proposal i created for a instructor-related interview meant to introduce children to embedded systems!
+# 🚦 Push&Pass: Smart Pedestrian Traffic Light System  
+
+Push2Pass is an **Arduino-based traffic light system** developed as part of an **instructor-role interview**, designed to introduce **children and beginners to embedded systems** in a fun and interactive way. The project simulates a real-world pedestrian crossing, where a **push button shortens the green light**, and a **passive buzzer produces a changing tone** during the red phase to assist visually impaired pedestrians. By incorporating **hands-on learning, automation, and inclusive design**, Push2Pass serves as an **engaging introduction to microcontrollers, real-time input handling, and digital logic** for young learners.  
